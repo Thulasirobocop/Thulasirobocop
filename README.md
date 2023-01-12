@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thulasiram
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep learning and neural networks
-- 📫 How to reach me - s.thulasiram1997@gmail.com
+- 📫 How to reach me - Mail: s.thulasiram1997@gmail.com, Linkedin: https://www.linkedin.com/in/thulasiram-saravanan/
 - Skill Set - Data Science: Python, Machine Learnign, Deep Learning, SQL, Tensorflow2.0
 - Skill Set - Mainframe: JCL, COBOL, IBM DB2. CICS (Beginner)
 - Bucklist Skills - Azure/AWS, MLOps, Flask.
